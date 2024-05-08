@@ -1,0 +1,5 @@
+2024/04/15-16:10:05.133 22cc Recovering log #45
+2024/04/15-16:10:05.133 22cc Level-0 table #47: started
+2024/04/15-16:10:05.182 22cc Level-0 table #47: 5825 bytes OK
+2024/04/15-16:10:05.192 22cc Delete type=0 #45
+2024/04/15-16:10:05.192 22cc Delete type=3 #43
